@@ -1,0 +1,34 @@
+{
+  "version": "7",
+  "dialect": "postgresql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "7",
+      "when": 1736824048837,
+      "tag": "0000_flawless_siren",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1736824546483,
+      "tag": "0001_reflective_ogun",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1736824803117,
+      "tag": "0002_past_yellowjacket",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "7",
+      "when": 1736825474132,
+      "tag": "0003_unique_natasha_romanoff",
+      "breakpoints": true
+    }
+  ]
+}
